@@ -1,0 +1,18 @@
+{
+    "credentials": {
+        "username": "example@gmail.com",
+        "password": "password"
+    },
+    "recipients": [],
+    "menus": [
+        "https://eatatstate.msu.edu/menu/The%20Edge%20at%20Akers/all/all/rss.xml",
+        "https://eatatstate.msu.edu/menu/Brody%20Square/all/all/rss.xml",
+        "https://eatatstate.msu.edu/menu/South%20Pointe%20at%20Case/all/all/rss.xml",
+        "https://eatatstate.msu.edu/menu/Holden%20Dining%20Hall/all/all/rss.xml",
+        "https://eatatstate.msu.edu/menu/Holmes%20Dining%20Hall/all/all/rss.xml",
+        "https://eatatstate.msu.edu/menu/Heritage%20Commons%20at%20Landon/all/all/rss.xml",
+        "https://eatatstate.msu.edu/menu/Thrive%20at%20Owen/all/all/rss.xml",
+        "https://eatatstate.msu.edu/menu/The%20Vista%20at%20Shaw/all/all/rss.xml",
+        "https://eatatstate.msu.edu/menu/The%20Gallery%20at%20Snyder%20Phillips/all/all/rss.xml"
+    ]
+}
