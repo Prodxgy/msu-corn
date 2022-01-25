@@ -47,7 +47,7 @@ def parse_list(corn_list):
     if corn_list:
         final_str += "\r\n\r\nToday's Corn Offerings at MSU:\n\n"
         for hall in corn_list:
-            if len(final_str) < 100: # sms is limited character length
+            if len(final_str) < 90: # sms is limited character length
                 final_str += hall + ": \n" + corn_list[hall] + "\n\n"
             else:
                 final_list.append(final_str)
